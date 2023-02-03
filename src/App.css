@@ -224,13 +224,16 @@ a.underlined:hover {
   }
   .content .title-holder h1 {
     font-size: 24px;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 40px;
 }
 .content .title-holder p {
   font-size: 20px;
   line-height: 20px;
 }
 .content .title-holder p {
-  margin: 50px;
+  margin: 15px;
 }
 .logo-img{
     width: 150px;
@@ -238,9 +241,14 @@ a.underlined:hover {
     transform: translatey(0px);
     animation: float 4s ease-in-out infinite;
   }
+  .social a {
+    display: inline-block;
+    margin-right: 12px;
+    transition: opacity 0.05s ease;
+}
   .footer{
     font-size: 10px;
-
+    padding: 10px;
   }
 }
 
