@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/loschileshermanos/static/css/main.4e9203d0.css",
+    "main.js": "/loschileshermanos/static/js/main.3e1ec252.js",
+    "static/media/logo.png": "/loschileshermanos/static/media/logo.530be6140b79d07ba023.png",
+    "static/media/IBMPlexSans-MediumItalic.ttf": "/loschileshermanos/static/media/IBMPlexSans-MediumItalic.b5d2aae060bd17a44e92.ttf",
+    "static/media/IBMPlexSans-BoldItalic.ttf": "/loschileshermanos/static/media/IBMPlexSans-BoldItalic.2154ceb10b0ff9a38ed6.ttf",
+    "static/media/IBMPlexSans-Italic.ttf": "/loschileshermanos/static/media/IBMPlexSans-Italic.3c841fd3d99ee585c6cd.ttf",
+    "static/media/IBMPlexSans-Medium.ttf": "/loschileshermanos/static/media/IBMPlexSans-Medium.e1777542474b207f1248.ttf",
+    "static/media/IBMPlexSans-Regular.ttf": "/loschileshermanos/static/media/IBMPlexSans-Regular.0519459d8ed646e0f90d.ttf",
+    "static/media/IBMPlexSans-Bold.ttf": "/loschileshermanos/static/media/IBMPlexSans-Bold.c6aebfe2ea10a16d4a22.ttf",
+    "static/media/instagram.svg": "/loschileshermanos/static/media/instagram.b133e565e26031a4181b82e6a67d7c65.svg",
+    "static/media/whatsapp.svg": "/loschileshermanos/static/media/whatsapp.681a24bac6ce67ef84bbff6285b8d751.svg",
+    "static/media/twitter.svg": "/loschileshermanos/static/media/twitter.5214ad3cf7c05ed4edff0e69ce917cfc.svg",
+    "index.html": "/loschileshermanos/index.html",
+    "static/media/facebook.svg": "/loschileshermanos/static/media/facebook.6c340b9530b1ff951b5e04fcf437f021.svg",
+    "main.4e9203d0.css.map": "/loschileshermanos/static/css/main.4e9203d0.css.map",
+    "main.3e1ec252.js.map": "/loschileshermanos/static/js/main.3e1ec252.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e9203d0.css",
+    "static/js/main.3e1ec252.js"
+  ]
+}
