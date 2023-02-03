@@ -13,6 +13,7 @@ A simple coming soon page, built using [create-react-app](https://github.com/fac
 
 ## Getting started
 
+
 ### Installation
 
 1. Clone this repository
