@@ -208,7 +208,7 @@ a.underlined:hover {
 
   }
 }
-@media screen and (max-width: 1024px) {
+@media only screen and (min-width: 360px) and (max-width: 1792px ){
   .logo {
     font-size: 1.5em;
   }
