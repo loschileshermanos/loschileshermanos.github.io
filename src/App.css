@@ -208,3 +208,39 @@ a.underlined:hover {
 
   }
 }
+@media screen and (max-width: 1024px) {
+  .logo {
+    font-size: 1.5em;
+  }
+  .header{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+  }
+  .content .title-holder{
+    max-height: 75%;
+  }
+  .content .title-holder h1 {
+    font-size: 24px;
+}
+.content .title-holder p {
+  font-size: 20px;
+  line-height: 20px;
+}
+.content .title-holder p {
+  margin: 50px;
+}
+.logo-img{
+    width: 150px;
+    overflow: hidden;
+    transform: translatey(0px);
+    animation: float 4s ease-in-out infinite;
+  }
+  .footer{
+    font-size: 10px;
+
+  }
+}
+
