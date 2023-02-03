@@ -1,8 +1,8 @@
 {
-  "name": "loschileshermanos.github.io",
+  "name": "loschileshermanos",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://loschileshermanos.github.io",
+  "homepage": "http://loschileshermanos.github.io/loschileshermanos",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
     "@fortawesome/free-solid-svg-icons": "^6.2.1",
