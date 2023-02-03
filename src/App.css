@@ -1,10 +1,9 @@
 .card {
   width: 90%;
-  height: 80%;
+  height: 90%;
   margin: auto;
   min-height: 512px;
   box-shadow: 0px 35px 70px 0px rgba(255, 163, 125, 0.65), 0px 30px 40px -10px rgba(255, 100, 124, 0.55);
-  /* background: linear-gradient(180deg, rgba(255, 163, 125, 1) 0%, rgba(255, 99, 124, 1) 100%); */
   background: radial-gradient(rgba(255, 163, 125, 1) 0%, rgba(255, 99, 124, 1));
   border-radius: 10px;
   display: flex;
@@ -30,8 +29,14 @@
 
 .logo {
   font-weight: bold;
-  font-size: 1.5em;
+  font-size: 2.5em;
   transition: opacity 0.05s ease;
+}
+.logo-img{
+  overflow: hidden;
+  transform: translatey(0px);
+  animation: float 4s ease-in-out infinite;
+
 }
 
 .logo:hover {
@@ -46,6 +51,7 @@
   display: inline-block;
   margin-right: 12px;
   transition: opacity 0.05s ease;
+  margin-bottom: 40px;
 }
 
 .social a:last-child {
@@ -57,7 +63,7 @@
 }
 
 .social .icon {
-  width: 18px;
+  width: 30px;
   fill: #fff;
 }
 
@@ -73,18 +79,19 @@
 .content .title-holder {
   color: #fff;
   text-align: center;
-  margin-bottom: 24px;
+  margin-bottom: 60px;
 }
 
 .content .title-holder h1 {
   font-weight: bold;
   font-size: 36px;
-  margin-bottom: 12px;
+  margin-top: 30px;
+  margin-bottom: 60px;
 }
 
 .content .title-holder p {
-  font-size: 16px;
-  line-height: 28px;
+  font-size: 25px;
+  line-height: 50px;
   font-weight: 500;
   color: rgba(255, 255, 255, 0.75);
 }
@@ -123,8 +130,41 @@
   font-size: 14px;
   font-weight: 500;
   text-align: center;
+  line-height: 20px;
 }
 
 a.underlined:hover {
   border-bottom: 1px dotted #fff;
+}
+.icon {
+  display: inline-block;
+  font-size: 44px;
+  animation: float 5s ease-in-out infinite;
+  cursor: pointer;
+}
+.ion-logo-instagram {
+  animation-delay: 1s;
+}
+.ion-logo-twitter {
+  animation-delay: 2s;
+}
+.ion-logo-whatsapp {
+  animation-delay: 3s;
+}
+.ion-logo-facebook {
+  animation-delay: 2s;
+}
+.ion-logo-linkedin {
+  animation-delay: 1s;
+}
+@keyframes float {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-15px);
+  }
+  100% {
+    transform: translateY(0);
+  }
 }
