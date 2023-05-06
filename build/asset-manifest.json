@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.365522e9.chunk.css",
+    "main.js": "/static/js/main.a796601d.chunk.js",
+    "main.js.map": "/static/js/main.a796601d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9c69e020.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9c69e020.js.map",
+    "static/js/2.b14b2d9c.chunk.js": "/static/js/2.b14b2d9c.chunk.js",
+    "static/js/2.b14b2d9c.chunk.js.map": "/static/js/2.b14b2d9c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.365522e9.chunk.css.map": "/static/css/main.365522e9.chunk.css.map",
+    "static/js/2.b14b2d9c.chunk.js.LICENSE.txt": "/static/js/2.b14b2d9c.chunk.js.LICENSE.txt",
+    "static/media/ComicFood-store.b9d78a38.jpeg": "/static/media/ComicFood-store.b9d78a38.jpeg",
+    "static/media/ComicFood.b45f85de.jpeg": "/static/media/ComicFood.b45f85de.jpeg",
+    "static/media/DistribucionesM&E-Store.b109d155.jpeg": "/static/media/DistribucionesM&E-Store.b109d155.jpeg",
+    "static/media/fonts.css": "/static/media/IBMPlexSans-Regular.0519459d.ttf",
+    "static/media/La_Chingona-PhotoRoom.png-PhotoRoom-removebg-preview.56d2ec53.png": "/static/media/La_Chingona-PhotoRoom.png-PhotoRoom-removebg-preview.56d2ec53.png",
+    "static/media/La_Chula-PhotoRoom.png-PhotoRoom-removebg-preview.b88275df.png": "/static/media/La_Chula-PhotoRoom.png-PhotoRoom-removebg-preview.b88275df.png",
+    "static/media/La_Güera_1-PhotoRoom.png-PhotoRoom-removebg-preview.4ff952a2.png": "/static/media/La_Güera_1-PhotoRoom.png-PhotoRoom-removebg-preview.4ff952a2.png",
+    "static/media/App.css": "/static/media/wood-texture-g1cce8aa25_1280.4d1a9c9f.jpg",
+    "static/media/PanchoVillaStore.af1968f8.jpeg": "/static/media/PanchoVillaStore.af1968f8.jpeg",
+    "static/media/Varjo store.307d66ec.jpg": "/static/media/Varjo store.307d66ec.jpg",
+    "static/media/facebook.df18c75c.svg": "/static/media/facebook.df18c75c.svg",
+    "static/media/gmail.f1231984.svg": "/static/media/gmail.f1231984.svg",
+    "static/media/icons8-casa.c15747b7.svg": "/static/media/icons8-casa.c15747b7.svg",
+    "static/media/instagram.b133e565.svg": "/static/media/instagram.b133e565.svg",
+    "static/media/logo.530be614.png": "/static/media/logo.530be614.png",
+    "static/media/logochileshermanos130px.a0e59632.png": "/static/media/logochileshermanos130px.a0e59632.png",
+    "static/media/whatsapp.681a24ba.svg": "/static/media/whatsapp.681a24ba.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c69e020.js",
+    "static/js/2.b14b2d9c.chunk.js",
+    "static/css/main.365522e9.chunk.css",
+    "static/js/main.a796601d.chunk.js"
+  ]
+}
