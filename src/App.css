@@ -40,6 +40,9 @@
   justify-content: center;
   align-items: center;
 }
+.navbar {
+  box-shadow: 0px 2px 15px 2px rgba(138, 133, 138, 0.6);
+}
 .navbar-collapse {
   display: flex;
   justify-content: flex-end;
@@ -369,7 +372,7 @@
   border-color: #f9f9fc;
   border-radius: 25px;
   border-width: 1px;
-  box-shadow: 0 0 transparent, 0 0 transparent, 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  box-shadow: 0px 2px 15px 2px rgba(138,133,138,0.6);
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -949,9 +952,15 @@ hr {
     justify-content: center;
     align-items: center;
   }
-  /* .navbar-toggler {
+  .navbar > .container-fluid {
+    display: flex;
+    flex-wrap: inherit;
+    align-items: center;
+    justify-content: center;
+  }
+  .navbar-toggler {
     display: none;
-  } */
+  }
   .logo-content-left__text {
     font-size: 20px;
   }
@@ -991,30 +1000,30 @@ hr {
   .txt-title-prices {
     font-size: 18px;
   }
-  .card-price-span{
+  .card-price-span {
     font-size: 25px;
   }
-  .card-data-plan{
+  .card-data-plan {
     font-size: 14px;
   }
-  .txt-item-prices{
+  .txt-item-prices {
     font-size: 14px;
   }
-  .btn-empren{
+  .btn-empren {
     font-size: 14px;
     font-weight: 400;
     padding: 5px 10px;
   }
-  .txt-subtitle-prices{
+  .txt-subtitle-prices {
     font-size: 14px;
   }
-  .text-payments{
+  .text-payments {
     font-size: 18px;
   }
-  .description-payments{
+  .description-payments {
     font-size: 15px;
   }
-  .content-grid{
+  .content-grid {
     padding: 20px;
   }
   .content-ourProduct {
@@ -1187,9 +1196,23 @@ hr {
     justify-content: center;
     align-items: center;
   }
-  /* .navbar-toggler {
+  .navbar > .container-fluid {
+    display: flex;
+    flex-wrap: inherit;
+    align-items: center;
+    justify-content: center;
+  }
+  .navbar-toggler {
     display: none;
-  } */
+  }
+  .collapse:not(.show) {
+    display: flex;
+    justify-content: center;
+  }
+  .collapse:not(.show) {
+    display: flex;
+    justify-content: center;
+  }
   .logo-content-left__text {
     font-size: 20px;
   }
@@ -1229,33 +1252,33 @@ hr {
   .txt-title-prices {
     font-size: 18px;
   }
-  .card-price-span{
+  .card-price-span {
     font-size: 25px;
   }
-  .card-data-plan{
+  .card-data-plan {
     font-size: 14px;
   }
-  .txt-item-prices{
+  .txt-item-prices {
     font-size: 14px;
   }
-  .btn-empren{
+  .btn-empren {
     font-size: 14px;
     font-weight: 400;
     padding: 5px 10px;
   }
-  .txt-subtitle-prices{
+  .txt-subtitle-prices {
     font-size: 14px;
   }
-  .text-payments{
+  .text-payments {
     font-size: 18px;
   }
-  .description-payments{
+  .description-payments {
     font-size: 15px;
   }
-  .content-grid{
+  .content-grid {
     padding: 20px;
   }
-  .card-title{
+  .card-title {
     font-size: 18px;
   }
   .content-ourProduct {
