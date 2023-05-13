@@ -27,7 +27,7 @@ function ImageGuera() {
 class Inicio extends React.Component {
   render = () => {
     return (
-      <div>
+      <div className="content-banner-container">
         <div className="content-banner">
           <div className="items-content-banner">
             <div className="item-content-left">
