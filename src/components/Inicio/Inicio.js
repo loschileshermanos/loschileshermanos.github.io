@@ -64,7 +64,7 @@ class Inicio extends React.Component {
               </div>
               <a
                 className="content-whatsApp"
-                href="https://api.whatsapp.com/send/?phone=573154112845&text&type=phone_number&app_absent=0"
+                href="https://api.whatsapp.com/send/?phone=573014484996&text&type=phone_number&app_absent=0"
                 title="Whatsapp"
                 target="_blank"
                 rel="noreferrer"
@@ -168,7 +168,7 @@ class Inicio extends React.Component {
               Contacta con un asesor para conocer más acerca de nuestras
               deliciosas salsas
             </p>
-            <a href="https://api.whatsapp.com/send/?phone=573154112845&text&type=phone_number&app_absent=0">
+            <a href="https://api.whatsapp.com/send/?phone=573014484996&text&type=phone_number&app_absent=0">
               <button className="buttonSupport">Hablar con un Asesor</button>
             </a>
           </div>
