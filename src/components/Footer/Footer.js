@@ -21,7 +21,7 @@ class Footer extends React.Component {
             <LogoHeader className="logo" />
             <div className="item-footer-contact">
               <FaPhoneSquareAlt></FaPhoneSquareAlt>
-              <p className="items-contact">+57 315 4112845</p>
+              <p className="items-contact">+57 301 4484996</p>
             </div>
             <div className="item-footer-contact">
               <FaRegEnvelope></FaRegEnvelope>
@@ -36,7 +36,7 @@ class Footer extends React.Component {
             <p>Contáctanos en nuestras redes sociales:</p>
             <div className="social">
               <a
-                href="https://api.whatsapp.com/send/?phone=573154112845&text&type=phone_number&app_absent=0"
+                href="https://api.whatsapp.com/send/?phone=573014484996&text&type=phone_number&app_absent=0"
                 title="Whatsapp"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -73,7 +73,7 @@ class Footer extends React.Component {
         <div className="copyright-footer">
           <a
             className="wsp-content"
-            href="https://api.whatsapp.com/send/?phone=573154112845&text&type=phone_number&app_absent=0"
+            href="https://api.whatsapp.com/send/?phone=573014484996&text&type=phone_number&app_absent=0"
             title="Whatsapp"
             target="_blank"
             rel="noreferrer"
