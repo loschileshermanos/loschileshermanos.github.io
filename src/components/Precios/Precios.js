@@ -153,7 +153,7 @@ class Precios extends React.Component {
                     <div className="btn">
                       <a
                         className="btn-empren"
-                        href="https://api.whatsapp.com/send/?phone=573154112845&text=Hola familia Los Chiles Hermanos!; estoy interesado en tu salsa La Chingona&type=phone_number&app_absent=0"
+                        href="https://api.whatsapp.com/send/?phone=573014484996&text=Hola familia Los Chiles Hermanos!; estoy interesado en tu salsa La Chingona&type=phone_number&app_absent=0"
                       >
                         Comprar ahora
                       </a>
@@ -247,7 +247,7 @@ class Precios extends React.Component {
                     <div className="btn">
                       <a
                         className="btn-empren"
-                        href="https://api.whatsapp.com/send/?phone=573154112845&text=Hola familia Los Chiles Hermanos!; estoy interesado en tu salsa La Güera&type=phone_number&app_absent=0"
+                        href="https://api.whatsapp.com/send/?phone=573014484996&text=Hola familia Los Chiles Hermanos!; estoy interesado en tu salsa La Güera&type=phone_number&app_absent=0"
                       >
                         Comprar ahora
                       </a>
@@ -341,7 +341,7 @@ class Precios extends React.Component {
                     <div className="btn">
                       <a
                         className="btn-empren"
-                        href="https://api.whatsapp.com/send/?phone=573154112845&text=Hola familia Los Chiles Hermanos!; estoy interesado en tu salsa La Chula&type=phone_number&app_absent=0"
+                        href="https://api.whatsapp.com/send/?phone=573014484996&text=Hola familia Los Chiles Hermanos!; estoy interesado en tu salsa La Chula&type=phone_number&app_absent=0"
                       >
                         Comprar ahora
                       </a>
@@ -375,7 +375,7 @@ class Precios extends React.Component {
                     </div>
                     <div className="description-payments">
                       Puede escribir a nuestra línea móvil a través de WhatsApp:
-                      3154112845
+                      +57 301 4484996
                     </div>
                   </div>
                 </div>
