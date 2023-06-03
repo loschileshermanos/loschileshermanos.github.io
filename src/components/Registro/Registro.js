@@ -23,7 +23,7 @@ class Registro extends React.Component {
               </div>
               <div className="item-register-left">
                 <iframe
-                  title="registerForm"
+                  title="register-form"
                   src="https://docs.google.com/forms/d/e/1FAIpQLSfp8IXPGrZ8Zp-N5Mp-m7rSVKK-uXdUOMe3CJzocAOixTIOlw/viewform?embedded=true"
                   width="740"
                   height="800"
