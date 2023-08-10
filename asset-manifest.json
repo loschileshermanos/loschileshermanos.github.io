@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.dcbe3180.chunk.css",
-    "main.js": "/static/js/main.26b7ac8d.chunk.js",
-    "main.js.map": "/static/js/main.26b7ac8d.chunk.js.map",
+    "main.css": "/static/css/main.885c710c.chunk.css",
+    "main.js": "/static/js/main.6645dffc.chunk.js",
+    "main.js.map": "/static/js/main.6645dffc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.33707478.js",
     "runtime-main.js.map": "/static/js/runtime-main.33707478.js.map",
     "static/js/2.3a4c23b6.chunk.js": "/static/js/2.3a4c23b6.chunk.js",
     "static/js/2.3a4c23b6.chunk.js.map": "/static/js/2.3a4c23b6.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.dcbe3180.chunk.css.map": "/static/css/main.dcbe3180.chunk.css.map",
+    "static/css/main.885c710c.chunk.css.map": "/static/css/main.885c710c.chunk.css.map",
     "static/js/2.3a4c23b6.chunk.js.LICENSE.txt": "/static/js/2.3a4c23b6.chunk.js.LICENSE.txt",
     "static/media/ComicFood-store.b9d78a38.jpeg": "/static/media/ComicFood-store.b9d78a38.jpeg",
     "static/media/ComicFood.b45f85de.jpeg": "/static/media/ComicFood.b45f85de.jpeg",
@@ -31,7 +31,7 @@
   "entrypoints": [
     "static/js/runtime-main.33707478.js",
     "static/js/2.3a4c23b6.chunk.js",
-    "static/css/main.dcbe3180.chunk.css",
-    "static/js/main.26b7ac8d.chunk.js"
+    "static/css/main.885c710c.chunk.css",
+    "static/js/main.6645dffc.chunk.js"
   ]
 }
